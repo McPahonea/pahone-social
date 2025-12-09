@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 
 export default defineConfig({
-  site: "https://McPahonea.github.io",
+  site: "https://pahone.social",
   base: "/",
 
   vite: {
